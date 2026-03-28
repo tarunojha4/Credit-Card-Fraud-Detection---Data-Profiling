@@ -22,6 +22,12 @@ GitHub does not directly display the output of large files; therefore, please us
 
 ---
 
+### 📊 Dataset Link
+ You can download the data used in this project here: 
+ [Credit Card Fraud Detection Dataset (Kaggle)](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Language:** Python 🐍
