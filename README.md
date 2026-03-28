@@ -3,11 +3,14 @@
 In this project, I have performed a detailed Exploratory Data Analysis (EDA) of credit card transactions using **Python** and the **ydata-profiling** library. This process provides significant assistance in identifying data patterns and detecting fraud.
 
 ---
-## 🚀 Quick Links (Live Outputs)
 
-* **📊 [View Live Interactive Dashboard](https://tarunojha4.github.io/Credit-Card-Fraud-Detection---Data-Profiling-in/report_html.html)**
-* **📈 [View Notebook with All Graphs (nbviewer)](https://nbviewer.org/github/tarunojha4/Credit-Card-Fraud-Detection---Data-Profiling-in/blob/main/credit_card_fraud_detection_data_profiling.ipynb)**
-* **💻 [Run Code Live on Google Colab](https://colab.research.google.com/github/tarunojha4/Credit-Card-Fraud-Detection---Data-Profiling-in/blob/main/credit_card_fraud_detection_data_profiling.ipynb)**
+## 🚀 Quick Links (Live Outputs)
+GitHub does not directly display the output of large files; therefore, please use the links provided below:
+
+* **📊 [View Live Interactive Dashboard](https://tarunojha4.github.io/credit_card_fraud_detection_data_profiling/report_html.html)** - View all graphs and charts here, presented as a standalone website.
+* **📈 [View Notebook with All Graphs (nbviewer)](https://nbviewer.org/github/tarunojha4/credit_card_fraud_detection_data_profiling/blob/main/credit_card_fraud_detection_data_profiling.ipynb)** - Click here if GitHub displays an "Invalid Notebook" error.
+* **💻 [Run Code Live on Google Colab](https://colab.research.google.com/github/tarunojha4/credit_card_fraud_detection_data_profiling/blob/main/credit_card_fraud_detection_data_profiling.ipynb)** - To run and execute this code live.
+
 ---
 
 ## ✨ Key Features
